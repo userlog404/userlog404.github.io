@@ -9,7 +9,7 @@ if(isset($_POST['email']) && $_POST['email'] != ''){
         $subject = $_POST['subject'];
         $message = $_POST['message'];
     
-        $to = "hello@duckducklin.com";
+        $to = "classyneon@gmail.com";
     
         $mailheader = "From:".$name."<".$email.">\r\n";
     
@@ -21,10 +21,10 @@ if(isset($_POST['email']) && $_POST['email'] != ''){
             <meta charset="UTF-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <meta http-equiv="refresh" content="5; url=https://duckducklin.com"/>
+            <meta http-equiv="refresh" content="5; url=https://userlog404.github.io"/>
             <title>$Julius~M</title>
-            <link rel="stylesheet" href="https://duckducklin.com/fontawesome.css">
-            <link rel="stylesheet" href="https://duckducklin.com/style.css">
+            <link rel="stylesheet" href="/fontawesome.css">
+            <link rel="stylesheet" href="/style.css">
         </head>
         <body>
             <div class="container">
@@ -35,7 +35,7 @@ if(isset($_POST['email']) && $_POST['email'] != ''){
                 <br>
                 <br>
                 <br>
-                <p class="back">Taking you back <a href="https://duckducklin.com">HOME 🙂</a>.</p>
+                <p class="back">Taking you back <a href="https://userlog404.github.io">HOME 🙂</a>.</p>
             </div>
             
         </body>
